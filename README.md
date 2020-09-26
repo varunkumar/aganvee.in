@@ -6,6 +6,7 @@ Contents of https://aganvee.in deployed on Netlify
 
 ```
 gatsby develop
+gatsby build
 ```
 
 ## Theme & icons contributions: 🙌
