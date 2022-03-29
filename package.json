@@ -30,7 +30,6 @@
     "gatsby-plugin-typescript": "^2.4.20",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.10",
     "gatsby-source-filesystem": "^2.3.30",
-    "minimist": "~1.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
@@ -38,6 +37,7 @@
     "theme-ui": "^0.3.1"
   },
   "devDependencies": {
-    "cross-env": "^5.2.0"
+    "cross-env": "^5.2.0",
+    "minimist": "~1.2.6"
   }
 }
