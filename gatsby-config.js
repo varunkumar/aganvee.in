@@ -23,7 +23,7 @@ module.exports = {
         description: `Personal website of Aganvee Varunkumar`,
         start_url: `/`,
         background_color: `#141821`,
-        theme_color: `#f6ad55`,
+        theme_color: `#141821`,
         display: `standalone`,
         icons: [
           {
