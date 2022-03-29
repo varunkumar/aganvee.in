@@ -37,6 +37,7 @@
     "react-helmet": "^6.1.0",
     "react-spring": "^8.0.27",
     "theme-ui": "^0.3.1",
+    "trim": "^0.0.3",
     "xmlhttprequest-ssl": "~1.6.2"
   },
   "devDependencies": {
