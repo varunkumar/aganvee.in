@@ -44,6 +44,13 @@ const Footer = () => {
         >
           @varunkumar
         </Link>
+        {` &`}
+        <Link
+          aria-label="Link to the author's website"
+          href="https://adhiyan.in"
+        >
+          @adhiyan_v
+        </Link>
       </Flex>
     </Box>
   );
